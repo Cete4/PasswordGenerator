@@ -13,7 +13,7 @@ Not in a  specific code style. As I'm still learning and improving.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-example.png
+https://cete4.github.io/PasswordGenerator/assets/example.png
 
 ## Features
 This project is improving. The next iteration will have more characters.
