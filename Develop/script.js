@@ -176,7 +176,7 @@ function generatePassword() {
     let confirmationSpecial = confirm("Would you like to include special characters in your password?");
 
     //If this is all false then the alert will trigger saying you need to have at least one character type
-    if (cLower === false && cUpper === false && cNumber === false & cSpecial === false) {
+    if (confirmationLower === false && confirmationUpper === false && confirmationNumber === false & confirmationSpecial === false) {
         alert("You must select at least one character type.");
         confirmationLower = confirm("Would you like to include lowercase characters in your password?");
         confirmationUpper = confirm("Would you like to include uppercase characters in your password?");
